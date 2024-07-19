@@ -1,3 +1,8 @@
+//Java program to rotate a square matrix 90 degrees clockwise. 
+//It achieves this by first transposing the matrix and then reflecting it horizontally. 
+//Helpful for understanding matrix manipulation and algorithms in Java.
+
+
 package examplesPrograms;
 import java.util.*;
 public class RotateMatrix {
