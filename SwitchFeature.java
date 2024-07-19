@@ -1,3 +1,7 @@
+//Explore Java's switch-case statements with examples demonstrating traditional, multi-label, and yield-based approaches.
+//The program illustrates efficient ways to handle conditional logic using Java's switch feature.
+//The use of yield showcases modern syntax for returning values directly from switch expressions, 
+//enhancing code clarity and functional-style programming practices.
 package examplesPrograms;
 import java.util.*;
 class SwitchFeature {
