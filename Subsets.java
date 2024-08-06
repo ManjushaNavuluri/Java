@@ -1,3 +1,5 @@
+//This Java program generates all possible subsets of a given set of integers. 
+//It uses a simple iterative approach to build the power set, which is the set of all subsets including the empty set.
 package resources;
 import java.util.*;
 public class Subsets {
@@ -9,7 +11,7 @@ public class Subsets {
 	    for(int i=0;i<n;i++) {
 	    	nums[i]=sc.nextInt();
 	    }
-//		int nums[]= {1,2,3};
+		//int nums[]= {1,2,3};
 		List<List<Integer>> input= subsets(nums);
 		System.out.println(input);
 
