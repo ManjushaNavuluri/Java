@@ -31,4 +31,5 @@ public class Subsets {
 	}
 
 }
-
+// If the input is 3 followed by 1 2 3, the output will be:
+// [[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]
